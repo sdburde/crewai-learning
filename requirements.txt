@@ -1,3 +1,4 @@
 crewai
 ipykernel
 openai
+crewai-tools
